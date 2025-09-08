@@ -4,12 +4,6 @@
 
 <img src= "https://media.licdn.com/dms/image/v2/D4E16AQEuDfquBkgmFw/profile-displaybackgroundimage-shrink_350_1400/B4EZkOHP7sIIAY-/0/1756878406766?e=1759968000&v=beta&t=vxf2IY0pcDQISuSi19SksuBKLo3oQK9YTws7IDLhvKw">
 
-<h1>Contacto</h1>
-
-- 🐙 GitHub: [angelmera14](https://github.com/angelmera14)  
-- 💼 LinkedIn: [Angel Mera Delgado](https://www.linkedin.com/in/angelmera14)  
-- 📩 Email: **angelmeradelgado@gmail.com**
-
 <h1>Sobre mi</h1>
 
 - 👨‍💻 Ingeniero de Software | Fullstack Developer  
@@ -18,8 +12,14 @@
 - 💻 Pasión por crear aplicaciones robustas en **frontend (Angular + DevExtreme)** y **backend (.NET & APIs REST)**  
 - 🛠️ Conocimientos en **redes y soporte técnico**
 - 🌐 Inglés intermedio
-- 🎯 Siempre buscando optimizar procesos, integrar tecnologías y aportar valor en cada desarrollo  
+- 🎯 Siempre buscando optimizar procesos, integrar tecnologías y aportar valor en cada desarrollo
 
+<h1>Contacto</h1>
+
+- 🐙 GitHub: [angelmera14](https://github.com/angelmera14)  
+- 💼 LinkedIn: [Angel Mera Delgado](https://www.linkedin.com/in/angelmera14)  
+- 📩 Email: **angelmeradelgado@gmail.com**
+  
 <h1>GitHub Analytics</h1>
 
 <p align="center">
