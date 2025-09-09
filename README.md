@@ -1,14 +1,14 @@
 <img src= "https://media.licdn.com/dms/image/v2/D4E16AQEuDfquBkgmFw/profile-displaybackgroundimage-shrink_350_1400/B4EZkOHP7sIIAY-/0/1756878406766?e=1759968000&v=beta&t=vxf2IY0pcDQISuSi19SksuBKLo3oQK9YTws7IDLhvKw">
 
-<h1>Sobre mi</h1>
+<h1>About me</h1>
 
-- 👨‍💻 Ingeniero de Software | Fullstack Developer  
-- ⚡ Experiencia en **Angular, .NET Core, Node.js, PHP (Laravel)** y **SQL Server**  
-- 📊 Desarrollo de sistemas financieros, tributarios y de proyecciones y normativa del SRI (Ecuador)  
-- 💻 Pasión por crear aplicaciones robustas en **frontend (Angular + DevExtreme)** y **backend (.NET & APIs REST)**  
-- 🛠️ Conocimientos en **redes y soporte técnico**
-- 🌐 Inglés intermedio
-- 🎯 Siempre buscando optimizar procesos, integrar tecnologías y aportar valor en cada desarrollo
+- 👨‍💻 Software Engineer | Fullstack Developer
+- ⚡ Experience in Angular, .NET Core, Node.js, PHP (Laravel), and SQL Server
+- 📊 Development of financial, tax, and projection systems aligned with SRI regulations (Ecuador)
+- 💻 Passionate about building robust applications in frontend (Angular + DevExtreme) and backend (.NET & REST APIs)
+- 🛠️ Knowledge in networking and technical support
+- 🌐 Intermediate English
+- 🎯 Always seeking to optimize processes, integrate technologies, and deliver value in every project
 
 <h1>Contacto</h1>
 
