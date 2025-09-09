@@ -1,7 +1,3 @@
-<div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/angel-mera-704b781b7">Angel</a> 👋</h1>
-</div>
-
 <img src= "https://media.licdn.com/dms/image/v2/D4E16AQEuDfquBkgmFw/profile-displaybackgroundimage-shrink_350_1400/B4EZkOHP7sIIAY-/0/1756878406766?e=1759968000&v=beta&t=vxf2IY0pcDQISuSi19SksuBKLo3oQK9YTws7IDLhvKw">
 
 <h1>Sobre mi</h1>
