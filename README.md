@@ -44,13 +44,13 @@
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=angelmera14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false"/>
     </td>
     <td>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=angelmera14&theme=tokyonight&hide_border=false"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelmera14&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
     </td>
   </tr>
 </table>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelmera14&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelmera14&theme=tokyonight" />
 </p>
+
 
 
